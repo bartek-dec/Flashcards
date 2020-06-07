@@ -1,0 +1,46 @@
+﻿Albania	Tirana	3
+Armenia	Yerevan	3
+Austria	Vienna	2
+Azerbaijan	Baku	3
+Belarus	Minsk	3
+Belgium	Brussels
+Bulgaria	Sofia	3
+Croatia	Zagreb	3
+Cyprus	Nicosia
+Czechia	Prague
+Denmark	Copenhagen	5
+Estonia	Tallinn	1
+Finland	Helsinki	5
+France	Paris	3
+Georgia	Tbilisi	1
+Germany	Berlin	4
+Greece	Athens
+Hungary	Budapest	1
+Iceland	Reykjavik	3
+Ireland	Dublin	2
+Italy	Rome	1
+Kazakhstan	Nur-Sultan	1
+Kosovo	Pristina	2
+Latvia	Riga	2
+Liechtenstein	Vaduz	4
+Lithuania	Vilnius	1
+Luxembourg	Luxembourg	3
+Malta	Valletta	4
+Moldova	Chisinau	3
+Monaco	Monaco	3
+Montenegro	Podgorica	3
+Netherlands	Amsterdam	3
+Norway	Oslo	1
+Poland	Warsaw	1
+Portugal	Lisbon	1
+Romania	Bucharest	2
+Russia	Moscow	3
+Serbia	Belgrade	1
+Slovakia	Bratislava	1
+Slovenia	Ljubljana	3
+Spain	Madrid	2
+Sweden	Stockholm	1
+Switzerland	Bern
+Turkey	Ankara	3
+Ukraine	Kyiv	5
+UK	London	1
